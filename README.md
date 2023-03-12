@@ -22,7 +22,7 @@ After the Ask stage i have moved to Preparing of data.I downloaded the data from
 
 2. I renamed all the files as per the standard naming conventions.
 
-3.  I took 2 data sheets which contains "2097150" Rows of data.
+3.  I took 2 data sheets which contains "32,02,120" Rows of data.
 
 
 
