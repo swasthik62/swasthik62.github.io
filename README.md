@@ -307,4 +307,5 @@ There is decline during the winter months.
 
 * Offer discounted pricing during non-busy hours so that casual riders might choose to use bikes more often and level out demand over the day.
 
-
+### project script
+https://github.com/swasthik62/swasthik62.github.io/blob/main/final%20script.R
